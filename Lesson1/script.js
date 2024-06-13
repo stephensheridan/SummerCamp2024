@@ -4,5 +4,8 @@ function setup() {
 }
 
 function draw() { 
-  background('grey');
+  background('red');
 }
+
+
+
